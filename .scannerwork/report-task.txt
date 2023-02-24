@@ -1,6 +1,0 @@
-projectKey=cobertura
-serverUrl=http://localhost:9000
-serverVersion=9.9.0.65466
-dashboardUrl=http://localhost:9000/dashboard?id=cobertura
-ceTaskId=AYZU2GPLdv2hgdjJr3iw
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYZU2GPLdv2hgdjJr3iw
